@@ -52,6 +52,10 @@ public class Main {
 		System.out.println("--------------------------------------------------");
 		tree.remove(82);
 		System.out.println(tree.toString());
+
+		//Testcases
+
+
 	}
 
 }
